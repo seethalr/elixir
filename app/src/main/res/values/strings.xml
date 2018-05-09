@@ -1,0 +1,57 @@
+<resources>
+    <string name="app_name">Elixir</string>
+    <string name="register_now">register now!</string>
+    <string name="password">Password (Minimum length 6)</string>
+    <string name="phone_number">Phone Number</string>
+    <string name="error_invalid_email">This email address is invalid</string>
+    <string name="error_invalid_password">Password too short or does not match</string>
+    <string name="error_incorrect_password">This password is incorrect</string>
+    <string name="error_field_required">This field is required</string>
+    <string name="elixir">ELIXIR</string>
+    <string name="register">REGISTER</string>
+    <string name="todo">TODO</string>
+    <string name="username">Username</string>
+    <string name="verification">VERIFICATION</string>
+    <string name="verify_otp">verify otp</string>
+    <string name="otp">OTP</string>
+    <string name="there_was_an_error">There was an error</string>
+    <string name="sendotp">SEND OTP</string>
+    <string name="resend">RESEND OTP</string>
+    <string name="first_name">First Name</string>
+    <string name="last_name">Last Name</string>
+    <string name="age">Age</string>
+    <string name="gender">Gender</string>
+    <string name="height">Height (cm)</string>
+    <string name="update">Update</string>
+    <string name="weight">Weight (kg)</string>
+    <string name="date_of_birth_dd_mm_yyyy">Date of Birth (DD-MM-YYYY)</string>
+    <string name="medication_course">Medication course</string>
+    <string name="appointment_feedback">appointment feedback</string>
+    <string name="medical_appointment">medical appointment</string>
+    <string name="menstrual_tracker">menstrual tracker</string>
+    <string-array name="gender_array">
+        <item>Gender</item>
+        <item>F</item>
+        <item>M</item>
+    </string-array>
+    <string-array name="date_array">
+        <item>Date</item>
+        <item>1</item><item>2</item><item>3</item><item>4</item><item>5</item><item>6</item><item>7</item><item>8</item><item>9</item><item>10</item>
+        <item>11</item><item>12</item><item>13</item><item>14</item><item>15</item><item>16</item><item>17</item><item>18</item><item>19</item><item>20</item>
+        <item>21</item><item>22</item><item>23</item><item>24</item><item>25</item><item>26</item><item>27</item><item>28</item><item>29</item><item>30</item><item>31</item>
+    </string-array>
+    <string-array name="month_array">
+        <item>JAN</item><item>FEB</item><item>MAR</item><item>APR</item><item>MAY</item><item>JUN</item><item>JUL</item><item>AUG</item>
+        <item>SEP</item><item>OCT</item><item>NOV</item><item>DEC</item>
+    </string-array>
+    <string name="title_activity_course">Course</string>
+    <string name="medicine_name">Medicine Name</string>
+    <string name="total_count">Total Count</string>
+    <string name="duration">Duration</string>
+    <string name="count_per_day">Count per day</string>
+    <string name="time_1">Time 1</string>
+    <string name="time_2">Time 2</string>
+    <string name="time_3">Time 3</string>
+    <string name="time4">Time4</string>
+    <string name="save">SAVE</string>
+</resources>

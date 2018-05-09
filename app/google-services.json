@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "270995064697",
+    "firebase_url": "https://elixir-e620f.firebaseio.com",
+    "project_id": "elixir-e620f",
+    "storage_bucket": "elixir-e620f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:270995064697:android:c2eb3911b8672e85",
+        "android_client_info": {
+          "package_name": "com.seethalreghunath.elixir"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "270995064697-uvb70fj84mkhohs1afq600rsv9b9vh54.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBubg9xLB7kWqmu5kmUBq0nCtGjR0TWQF8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
